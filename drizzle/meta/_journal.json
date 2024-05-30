@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716037211653,
+      "tag": "0000_aromatic_maginty",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716039356434,
+      "tag": "0001_gorgeous_black_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1716282699310,
+      "tag": "0002_pink_mister_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1716363826207,
+      "tag": "0003_burly_black_tom",
+      "breakpoints": true
+    }
+  ]
+}
